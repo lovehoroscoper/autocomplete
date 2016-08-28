@@ -1,2 +1,2 @@
 # autocomplete
-A Ternary Search Tree Implementation (+ Ongoing More) of Autocomplete. 
+A Ternary Search Tree Implementation (+ More) of Autocomplete. 
